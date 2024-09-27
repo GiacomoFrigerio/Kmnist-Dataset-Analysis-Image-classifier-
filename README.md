@@ -1,4 +1,5 @@
 # KmnistAnalysis
 KMNIST dataset analysis
 
-For data analysis (evaluation.py, datanaalysis.py, identification.py, identificationVisualize.py, )
+For training (train_cnn.py, train_mlp.py)
+For data analysis (evaluation.py, evaluationPCA.py,  data_analysis.py, identification.py, identificationVisualize.py, accuracy.py )
