@@ -1,6 +1,12 @@
 # KmnistAnalysis
 KMNIST dataset analysis.
 
+Machine learning application on KMNIST dataset: 
+- Multilayer perceptron training and testing
+- Convolutional Neural Networks training and testing
+- Normalization/Reduction (L2 / PCA)
+- K Nearest Neighbours Algorithm
+- Autoencoders for Image Reconstruction and Noise cleaning
 
 Both the dataset itself and the contents of this repo are licensed under a permissive CC BY-SA 4.0 license, except where specified within some benchmark
 scripts. CC BY-SA 4.0 license requires attribution, and we would suggest to use the following attribution to the KMNIST dataset.
