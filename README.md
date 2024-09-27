@@ -1,5 +1,11 @@
 # KmnistAnalysis
-KMNIST dataset analysis
+KMNIST dataset analysis.
+
+Both the dataset itself and the contents of this repo are licensed under a permissive CC BY-SA 4.0 license, except where specified within some benchmark
+scripts. CC BY-SA 4.0 license requires attribution, and we would suggest to use the following attribution to the KMNIST dataset.
+"KMNIST Dataset" (created by CODH), adapted from "Kuzushiji Dataset" (created by NIJL and others), doi:10.20676/00000341
+
+Info on Kuzushiji writing here (https://www.kaggle.com/code/aakashnain/kmnist-mnist-replacement) (https://naruhodo.weebly.com/blog/introduction-to-kuzushiji) (https://www.simonwenkel.com/notes/ai/datasets/vision/Kuzushiji-MNIST.html)
 
 PVML Library (https://github.com/claudio-unipv/pvml)
 For training (train_cnn.py, train_mlp.py) 
